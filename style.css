@@ -55,6 +55,7 @@ body {
 .categories {
   border-bottom: 1px solid black;
   display: flex;
+  flex-wrap: wrap;
   padding: 10px;
   justify-content: space-between;
 }
@@ -145,3 +146,4 @@ body {
   justify-content: space-between;
   margin: 20px;
 }
+
