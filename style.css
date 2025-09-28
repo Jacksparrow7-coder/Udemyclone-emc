@@ -12,6 +12,7 @@ body {
   padding: 20px;
   gap: 10px;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
@@ -54,7 +55,8 @@ body {
 .categories {
   border-bottom: 1px solid black;
   display: flex;
-  justify-content: space-evenly;
+  padding: 10px;
+  justify-content: space-between;
 }
 
 .categories p {
