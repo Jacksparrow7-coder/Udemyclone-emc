@@ -3,8 +3,7 @@
 This is my **first web development project** built during my training at **EMC Academy**. I recreated the **Udemy homepage** using only **HTML and CSS**, focusing on layout design, responsive structure, and visual styling. This project helped me understand the fundamentals of front-end development and how to bring real-world interfaces to life.
 
 ## 🚀 Live Demo
-[Click here to view the live site](#)  
-*(Replace with your GitHub Pages link if hosted)*
+[[Click here to view the live site](https://jacksparrow7-coder.github.io/Udemyclone-emc/)](#)  
 
 ## 🔧 Technologies Used
 - HTML5  
